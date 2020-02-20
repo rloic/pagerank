@@ -1,0 +1,8 @@
+[package]
+name = "page_rank"
+version = "0.1.0"
+authors = ["rloic <loic.rouquette@insa-lyon.fr>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
